@@ -7,12 +7,6 @@ Total Defense Activation Code: Everything You Need to Know
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://totaldefense-activate-subscription.readthedocs.io/en/latest/_images/activate.png
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://softwareinstaller.net/
-  _________
 
 In the ever-evolving world of cybersecurity, Total Defense stands out as a trusted antivirus and internet security provider that offers robust protection for personal and professional devices. One of the essential steps in getting started with Total Defense products is using a Total Defense activation code. This unique code allows users to unlock and activate their software, ensuring complete access to its powerful security features.
 
