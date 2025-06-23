@@ -7,7 +7,7 @@ Total Defense Activation Code: Everything You Need to Know
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://totaldefense-activate-subscription.readthedocs.io/en/latest/_images/activate.png
+.. image:: activate.png
    :alt: My Project Logo
    :width: 400px
    :align: center
