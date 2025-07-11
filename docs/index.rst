@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://activation-key.net/">
+
 Total Defense Activation Code: Everything You Need to Know
 ============================================
 .
